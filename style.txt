@@ -1,0 +1,8 @@
+.input-text{
+    border-radius: 5px;
+}
+
+.input-text:active{
+    border-color: red;
+    border-width: 10px;
+}
